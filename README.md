@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DICOM-MCP MCP server
 
 MCP to work with DICOM images

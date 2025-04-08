@@ -4,7 +4,16 @@ version = "0.1.0"
 description = "MCP to work with DICOM images"
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = [ "mcp>=1.6.0",]
+dependencies = [
+ "ipykernel>=6.29.5",
+ "itk==5.4.0",
+ "mcp>=1.6.0",
+ "pandas>=2.2.3",
+ "pydicom-seg>=0.4.1",
+ "pydicom>=3.0.1",
+ "tcia-utils>=2.4.20",
+ "numpy>=1.26.4",
+]
 [[project.authors]]
 name = "Shaun Porwal"
 email = "shaun.porwal@gmail.com"
