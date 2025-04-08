@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "my-mcp-server-ratio": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "/Users/kiu/dev/my-mcp-server-ratio",
+                "run",
+                "main.py"
+            ]
+        }
+    }
+}

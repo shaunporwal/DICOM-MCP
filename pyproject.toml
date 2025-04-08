@@ -7,7 +7,7 @@ requires-python = ">=3.10"
 dependencies = [
  "ipykernel>=6.29.5",
  "itk==5.4.0",
- "mcp>=1.6.0",
+ "mcp[cli]>=1.6.0",
  "pandas>=2.2.3",
  "pydicom-seg>=0.4.1",
  "pydicom>=3.0.1",
